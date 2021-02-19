@@ -1,5 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
-
+Est 1 Lina Maria Gomez cod 201923531
+Est 2 Andres Leonardo Beltran cod 202014143
+Est 3 Juan Montealegre cod 202012723
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
